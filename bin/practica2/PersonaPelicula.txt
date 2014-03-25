@@ -1,0 +1,26 @@
+12345-D,Gladiator,7
+12346-D,Avatar,8
+12347-D,Avatar,5
+12348-D,Gladiator,3
+12349-D,Avatar,10
+12340-D,Avatar,6
+12341-D,Avatar,5
+12345-D,Avatar,9
+12349-D,Gladiator,10
+12345-D,Gladiator,7
+12345-D,Shutter Island,3
+12345-D,Shutter Island,3
+12349-D,Shutter Island,5
+12341-D,Titanic,8
+12345-D,Titanic,9
+12346-D,Titanic,10
+12347-D,Titanic,3
+12348-D,Titanic,4
+12349-D,Shutter Island,5
+12340-D,Titanic,7
+12341-D,Titanic,8
+12349-D,Shutter Island,5
+12341-D,Gladiator,10
+12345-D,Shutter Island,3
+12346-D,Gladiator,9
+12347-D,Gladiator,6

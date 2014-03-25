@@ -1,0 +1,8 @@
+12345-D,Luis,Matos,23
+12346-D,Francisco,Oviedo,15
+12347-D,Manuel,Montilla,13
+12348-D,Andrés,Matos,29
+12349-D,Luisa,Fuentes,21
+12340-D,Julia,Matos,13
+12341-D,Jose,Raposo,70
+12345-D,Luis,Matos,23

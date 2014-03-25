@@ -1,0 +1,5 @@
+Avatar,James Cameron,162,20th Century Fox,EE.UU.,2779.551,$
+Gladiator,Ridley Scott,155,Independiente,EE.UU.,2.071,$
+Shutter Island,Martin Scorsese,138,Paramount Pictures,EE.UU.,40.2,$
+Titanic,James Cameron,193,20th Century Fox,EE.UU.,1842.879,$
+El laberinto del fauno,Guillermo del Toro,131,Tequila Gang,Espa–a/Mexico,83.0,$,
